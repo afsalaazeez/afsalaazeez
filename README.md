@@ -33,9 +33,6 @@ I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate and creativ
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/mysql.gif" height="80" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/mongo.gif" height="80" />
   </a>
