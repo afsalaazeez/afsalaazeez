@@ -25,9 +25,6 @@ I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate and creativ
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/html-css-js.png" height="70" />
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/jenkins.gif" height="70" />
-  </a>
  </p>
 
 ### Databases
@@ -38,6 +35,14 @@ I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate and creativ
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/mongo.gif" height="80" />
+  </a>
+</p>
+
+### CI/CD
+
+<p float="left">
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/jenkins.gif" height="140" />
   </a>
 </p>
 
