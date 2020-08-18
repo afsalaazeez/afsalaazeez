@@ -4,7 +4,7 @@
 **afsalaazeez/afsalaazeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;
+I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate developer.
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
