@@ -16,6 +16,9 @@ I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate and creativ
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/k8s.gif"  height="75" />
   </a>
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/python.gif"  height="75" />
+  </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/html-css-js.png" height="70" />
   </a>
