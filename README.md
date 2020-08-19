@@ -26,7 +26,7 @@ I am [Afsal](https://www.linkedin.com/in/afsalaazeez/), a passionate developer.
     <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/html-css-js.png" height="70" />
   </a>
   <a href="https://roost.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/roostio.png" height="70" />
+    <img src="https://raw.githubusercontent.com/afsalaazeez/afsalaazeez/master/assets/roostio.gif" height="70" />
   </a>
  </p>
 
